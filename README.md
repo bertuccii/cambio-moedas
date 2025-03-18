@@ -17,11 +17,11 @@ Essa API recebe um POST contendo a moeda de origem, a moeda de destino e o valor
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/bertuccii/cambio-moedas.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd nome-do-projeto
+   cd cambio-moedas
    ```
 3. Instale as dependências:
    ```bash
